@@ -1,18 +1,21 @@
 **Stock Market Analysis Dashboard** 
 
 **Purpose**
+
 The purpose of this project is to analyze stock market data using Power BI 
 and create an interactive dashboard that provides insights into stock performance, 
 trading volume, price trends, and market volatility. The dashboard enables users to explore d
 ata visually and make informed decisions through business intelligence techniques.
 
 **Technologies Used**
+
 * Microsoft Power BI
 * Power Query
 * DAX (Data Analysis Expressions)
 * CSV Dataset
 
 **Data Source**
+
 The project uses a historical stock market dataset containing information such as 
 stock symbols, opening price, closing price, trading volume, industry category, trading dates, and volatility. 
 The data was imported into Power BI, transformed using Power Query, and analyzed through interactive dashboards and DAX measures.
@@ -28,6 +31,7 @@ The data was imported into Power BI, transformed using Power Query, and analyzed
 * Interactive Filters (Slicers)
 
 **Business Problem**
+
 Investors and business analysts often struggle to interpret large volumes of stock market 
 data due to its complexity and constantly changing nature. This project addresses that challenge 
 by transforming raw stock data into an interactive Power BI dashboard, making it easier to monitor
@@ -35,6 +39,7 @@ market performance, identify high-performing stocks, compare industries, and det
 The dashboard supports faster, data-driven business and investment decisions.
 
 **Project Insights**
+
 The dashboard analysis revealed strong market participation with a total trading volume of 782M and 
 an average closing price of 3.63K, indicating consistent market activity. BAYERCROP achieved the highest average 
 closing price, while BASF recorded the highest positive growth and UPL LIMITED experienced the largest decline. 
